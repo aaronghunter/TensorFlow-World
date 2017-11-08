@@ -1,0 +1,5 @@
+- Account: 213317749740-agh_kuberlab_02
+  AutoDeploy: false
+  Name: tensorflow-world
+  Provider: amazon
+  Src: agh_tfworld.yaml
