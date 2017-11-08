@@ -1,9 +1,9 @@
 # Cluster name
 name: tensorflow-world
 # Amazon zone where cluster is deployed.
-zone: us-east-1a
+zone: us-west-2b
 # Amazon region where cluster is deployed.
-region: us-east-1
+region: us-west-2
 # Amazon master instance type, all available instance types see at https://aws.amazon.com/ec2/instance-types/
 master_type: m3.medium
 # Replication master in specified zones (will deploy multi-master kubernetes installation)
