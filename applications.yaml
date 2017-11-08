@@ -9,4 +9,14 @@
     name: zappos-ui
     src: https://github.com/kuberlab-catalog/zappos-ui/
     version: 1.0.0
+  - clusters:
+    - tensorflow-world-gcp
+    configuration:
+      values:
+        app: zappos-set
+        model: serving-standalone-2
+        port: 5000
+    name: zappos-ui
+    src: https://github.com/kuberlab-catalog/zappos-ui/
+    version: 1.0.0
   name: zappos-ui
