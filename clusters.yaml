@@ -3,3 +3,8 @@
   Name: tensorflow-world
   Provider: amazon
   Src: agh_tfworld.yaml
+- Account: sacred-ember-183922
+  AutoDeploy: false
+  Name: tensorflow-world-gcp
+  Provider: google
+  Src: agh_tfworld_gcp.yaml
